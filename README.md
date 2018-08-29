@@ -90,6 +90,6 @@ Clase 2.
     
     Son listas de videos de reforzamiento y explicación más profunda .
          
-    Sitios de refrencia:
+    Sitios de referencia:
     **http://docs.python.org.ar/tutorial/3/index.html**
       
