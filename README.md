@@ -36,11 +36,11 @@ Clase 1.
   Ejecutar el programa, guardarlo, confirmar su presencia en el folder de trabajo, abrir de nuevo el programa.
   Tips: nombres de las variables, nombres de los archivos, no usar tildes ni símbolos diferentes al inglés.  
   
-  *Metodología:* 
-  -Explicar el funcionamiento de cada punto mediante el ejemplo.
-  -Búsqueda de la documentación en internet.
-  -Búsqueda de ejemplos en internet: sitios, blogs y videos.
-  -Prácticas en clase.
+  *Metodología:*   
+  -Explicar el funcionamiento de cada punto mediante el ejemplo.  
+  -Búsqueda de la documentación en internet.  
+  -Búsqueda de ejemplos en internet: sitios, blogs y videos.  
+  -Prácticas en clase.  
 
 Clase 2.  
   - Otras funciones de uso habitual.
@@ -59,11 +59,11 @@ Clase 2.
   - Bloque condicional if. 
   - Operadores lógicos: AND, OR, Not. 
   
-*Metodología:* 
-  -Explicar el funcionamiento de cada punto mediante el ejemplo.
-  -Búsqueda de la documentación en internet.
-  -Búsqueda de ejemplos en internet: sitios, blogs y videos.
-  -Prácticas en clase.
+*Metodología:*   
+  -Explicar el funcionamiento de cada punto mediante el ejemplo.  
+  -Búsqueda de la documentación en internet.  
+  -Búsqueda de ejemplos en internet: sitios, blogs y videos.  
+  -Prácticas en clase.  
   	  
 
 ## Contenido de material del curso:
