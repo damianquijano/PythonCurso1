@@ -1,3 +1,15 @@
+a=int(input("Introduzca valor de a: "))
+b=int(input("Introduzca valor de b: "))
+
+# Esto es una operación de suma
+# a=input("Introduzca valor de a: ")
+# b=input("Introduzca valor de b: ")
+# a_int=int(a)
+# b_int=int(b)
+
+resultado=a*b
+print("El resultado es: ", str(resultado))
+-----------------------------------
 a=input("Introduzca valor de a: ")
 b=input("Introduzca valor de b: ")
 a_int=int(a)
