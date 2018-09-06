@@ -4,7 +4,7 @@ a_int=int(a)
 b_int=int(b)
 resultado=a_int * b_int
 print("El resultado es: ", str(resultado))
-
+----------------------------------------------------
 Documentación 3 sitio oficial:
 https://docs.python.org/3/
 
