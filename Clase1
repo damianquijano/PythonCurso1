@@ -1,4 +1,12 @@
-len , max , min , pow , round  
+
+
+len , max , min , pow , round 
+#Comprobar función len()
+frase="Hola mundo"
+cantidad=len(frase)
+print("Tamaño de frase es:", cantidad)
+
+
 ------------------------------------------------
 Una variable puede contener solamente letras, guión bajo y números, 
 no puede contener otro tipo de símbolo ni espacios en blanco ni tildes.
