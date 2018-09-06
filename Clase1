@@ -1,3 +1,5 @@
+len , max , min , pow , round  
+------------------------------------------------
 Una variable puede contener solamente letras, guión bajo y números, 
 no puede contener otro tipo de símbolo ni espacios en blanco ni tildes.
 
