@@ -1,3 +1,10 @@
+Una variable puede contener solamente letras, guión bajo y números, 
+no puede contener otro tipo de símbolo ni espacios en blanco ni tildes.
+
+Ejemplo: _pedro, Pedro, Pedro_34, _34Pedro, Pedro_y_Maria   
+Incorrecto: 3var, area 2 (tiene espacio), hola@mundo 
+
+--------------------------------------
 a=int(input("Introduzca valor de a: "))
 b=int(input("Introduzca valor de b: "))
 
